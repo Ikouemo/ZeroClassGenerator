@@ -45,8 +45,8 @@ ZeroClassGenerator/
 ├── .gitignore
 ├── ClassGenerator.pro                   # Qt project configuration file (used by qmake.
 ├── main.cpp                             # Program entry point.          
-├── MainWindow.cpp / MainWindow.hpp      # inherits from `QWidget`. Allows you to configure and generate the class.                         
-├── SecondWindow.cpp / SecondWindow.hpp  # inherits from `QDialog`. Displays the generated code with the option to save it.     
+├── MainWindow.cpp / MainWindow.hpp      # QWidget-based main interface for configuring class generation.                         
+├── SecondWindow.cpp / SecondWindow.hpp  # QDialog-based window displaying generated code and save option.     
 ├── RRADME.md
 
 ```
