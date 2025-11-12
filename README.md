@@ -4,6 +4,7 @@ automatically generates **basic C++ class code** (`.h` and `.cpp` files) from an
 
 ## Overview
 <img width="921" height="814" alt="Screenshot 2025-11-12 at 07 34 17" src="https://github.com/user-attachments/assets/32cd586d-dd99-486e-ada4-a4c912d63b0c" />
+
 ![ScreenRecording2025-11-12at06 49 34-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8b386ef0-60a2-464e-a2ae-1b69b673957f)
 
 ## 🚀 Project objective
