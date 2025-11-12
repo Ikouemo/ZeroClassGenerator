@@ -2,10 +2,14 @@
 ZeroClassGenerator is a **C++ Qt** application that 
 automatically generates **basic C++ class code** (`.h` and `.cpp` files) from an intuitive graphical interface.
 
+---
+
 ## Overview
 <img width="921" height="814" alt="Screenshot 2025-11-12 at 07 34 17" src="https://github.com/user-attachments/assets/32cd586d-dd99-486e-ada4-a4c912d63b0c" />
 
 ![ScreenRecording2025-11-12at06 49 34-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8b386ef0-60a2-464e-a2ae-1b69b673957f)
+
+---
 
 ## 🚀 Project objective
 
@@ -20,14 +24,18 @@ The programme allows you to:
 * automatically generate `.h` and `.cpp` files,
 * and finally **save the generated code**.
 
+---
+
 ##  🛠️ Tech Stack
 * C++17
 * Qt6
-* QWidget`, `QDialog`, `QGroupBox`, `QTabWidget`, `QTextEdit` `QFormLayout`, `QVBoxLayout`, `QHBoxLayout`
+* QWidget`, `QDialog`, `QGroupBox`, `QTabWidget`, `QTextEdit`, QFormLayout, `QVBoxLayout`, `QHBoxLayout`
 `QLineEdit`, `QListWidget`, `QListWidgetItem`, `QString`,  `QPushButton`, `QCheckBox`, `QDateEdit`
 `QFile`, `QFileDialog`, `QMessageBox`, `QRegularExpressionValidator`
 * Qt Creator
 * Git + GitHub
+
+---
 
 ## 🧱 Project Structure
 
@@ -41,6 +49,19 @@ ZeroClassGenerator/
 ├── RRADME.md
 
 ```
+--- 
+
+## 🧑‍💻 Author
+
+**Ivan Wilfried Kouemo**
+📧 [ivanovkouemo@gmail.com](mailto:ivanovkouemo@gmail.com)
+🔗 [GitHub: IKouemo](https://github.com/IKouemo)
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** — feel free to use, modify, and distribute it freely.
 
 
 
