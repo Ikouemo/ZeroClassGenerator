@@ -20,8 +20,21 @@ The programme allows you to:
 * automatically generate `.h` and `.cpp` files,
 * and finally **save the generated code**.
 
+##  🛠️ Tech Stack
+* C++
+* Qt6
+* Git + GitHub
 
-
+## 🧱 Project Structure
+```
+ZeroClassGenerator/
+├── .gitignore
+├── ClassGenerator.pro                           # Qt project configuration file used by qmake, the build system that comes with Qt. It tells qmake how to build your application — which source files, headers, libraries, and modules to include.
+├── main.cpp                                     # Program entry point, launches the main window.          
+├── MainWindow.cpp / MainWindow.hpp              # inherits from `QWidget`. Allows you to configure and generate the class.                         
+├── SecondWindow.cpp / SecondWindow.hpp          # inherits from `QDialog`. Displays the generated code with the option to save it.     
+├── RRADME.md
+```
 
 
 
