@@ -29,9 +29,9 @@ The programme allows you to:
 ##  🛠️ Tech Stack
 * C++17
 * Qt6
-* QWidget`, `QDialog`, `QGroupBox`, `QTabWidget`, `QTextEdit`, QFormLayout, `QVBoxLayout`, `QHBoxLayout`
-`QLineEdit`, `QListWidget`, `QListWidgetItem`, `QString`,  `QPushButton`, `QCheckBox`, `QDateEdit`
-`QFile`, `QFileDialog`, `QMessageBox`, `QRegularExpressionValidator`
+*  `QApplication`, QWidget`, `QDialog`, `QGroupBox`, `QTabWidget`, `QTextEdit`, `QFormLayout`, `QVBoxLayout`, `QHBoxLayout`,
+`QLineEdit`, `QListWidget`, `QListWidgetItem`, `QString`, `QPushButton`, `QCheckBox`, `QDateEdit`,
+`QFile`, `QFileDialog`, `QMessageBox`, `QRegularExpressionValidator`, `QTextStream`, `QStyleFactory`.
 * Qt Creator
 * Git + GitHub
 
