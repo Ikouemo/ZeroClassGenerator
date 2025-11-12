@@ -21,11 +21,16 @@ The programme allows you to:
 * and finally **save the generated code**.
 
 ##  🛠️ Tech Stack
-* C++
+* C++17
 * Qt6
+* QWidget`, `QDialog`, `QGroupBox`, `QTabWidget`, `QTextEdit` `QFormLayout`, `QVBoxLayout`, `QHBoxLayout`
+`QLineEdit`, `QListWidget`, `QListWidgetItem`, `QString`,  `QPushButton`, `QCheckBox`, `QDateEdit`
+`QFile`, `QFileDialog`, `QMessageBox`, `QRegularExpressionValidator`
+* Qt Creator
 * Git + GitHub
 
 ## 🧱 Project Structure
+
 ```
 ZeroClassGenerator/
 ├── .gitignore
@@ -34,6 +39,7 @@ ZeroClassGenerator/
 ├── MainWindow.cpp / MainWindow.hpp # inherits from `QWidget`. Allows you to configure and generate the class.                         
 ├── SecondWindow.cpp / SecondWindow.hpp  # inherits from `QDialog`. Displays the generated code with the option to save it.     
 ├── RRADME.md
+
 ```
 
 
