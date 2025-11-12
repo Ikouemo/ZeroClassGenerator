@@ -1,0 +1,97 @@
+# =============================
+# Qt / C++ build and project files
+# =============================
+
+# Qt Creator user settings (local only)
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+
+# Build directories (auto-generated)
+build-*/
+bin/
+lib/
+debug/
+release/
+x64/
+x86/
+out/
+obj/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.app
+*.qrc.dep
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile*
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.ninja
+*.ninja_deps
+*.ninja_log
+
+# =============================
+# Qt generated files
+# =============================
+*.qmlc
+*.jsc
+*.qhc
+*.qch
+*.autosave
+
+# =============================
+# IDE & Editor specific
+# =============================
+# Qt Creator
+*.pro.user
+*.creator.user
+*.creator.user.*
+*.creator
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# CLion / JetBrains IDEs
+.idea/
+*.iml
+
+# =============================
+# OS specific
+# =============================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+# Thumbnails
+._*
+# macOS System files
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =============================
+# Logs, temp, and backup files
+# =============================
+*.log
+*.tmp
+*.bak
+*~
+*.swp
+
+# =============================
+# Custom (optional)
+# =============================
+# Ignore generated code outputs if any
+GeneratedFiles/
+Generated/
+Temp/
+
